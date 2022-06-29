@@ -1,0 +1,16 @@
+---
+enable: true
+title: "What do we do?"
+subtitle: We are a very friendly dojo and treat each other like family. We work hard, have fun and have a great time.
+services:
+  - name: "Uechi Ryu Karate"
+    description: Uechi Ryu a style that emphasizes and builds mental and physical toughness - the cornerstones of unarmed combat. It is fast and powerful close-in strike fighting. While some may view its techniques as esoteric, they are essentially designed to cripple or kill an opponent. True Okinawan Karate, especially Uechi Ryu, was not designed for sport fighting, it was essentially for self defence. It is a Do art, which promotes mental, physical and spiritual perfection of oneself as well as self defense training. Uechi Ryu Karate is more practical than some for hard core unarmed combat. Mainly this is due to the efficiency of its techniques as well as its conditioning of the mind and body. It is a great and beautiful style to learn.
+    icon: "ti-infinite"
+  - name: "Kyusho Jitsu"
+    description: A pressure point system from the Jim Corn Kyusho Jitsu system. It is a great partner system for Uechi Ryu style and any other martial arts style. We teach all the theories of Kyusho and then put them into practice to show how a precision targeting system can effectively disrupt the bodies nervous and energy systems. From a knockout to painful control and disfunction of limbs. Following on from the hits we also teach recovery of the systems that we have disrupted along with complementary healing techniques.
+    icon: "ti-infinite"
+  - name: "Qigong"
+    description: An energy cultivation system that enhance your chi flow for health and martial arts. We use the 5 element and 5 animal routines within the seasonal rota of spring, summer, late summer, autumn and winter. An exercise routine for all ages.  The exercises are performed slowly and with good breathing techniques. They are designed to loosen joints and to keep muscles and tendons in good order. They are done in a soft manner to enable the internal channels to clear themselves of energy blockages. Although they are done softly they can generate a lot of heat through the engird movement.  You are advised to wear loose clothing so as to be able to stretch. Currently we have members ranging from their 40's to their 70's but all adults are welcome.
+    icon: "ti-infinite"
+---
+

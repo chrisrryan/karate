@@ -1,0 +1,20 @@
+---
+enable: true
+title: "Our Sessions"
+subtitle: We have a great sessions for everyone.
+buttonTarget: "contact"
+itemPrices:
+  - packcage: "Uechi Ryu Karate"
+    description: EACH session is 90 minutes. Every Tuesday and Thursday evening starting at 7:30pm
+    price: 5
+    badge:
+  - packcage: "Kyusho Jitsu"
+    description: EACH session is 2 hours. Once a month on Sundays starting at 10:30am.
+    price: 10
+    badge:
+  - packcage: "Qigong"
+    description: An energy cultivation system. EACH session is 90 minutes. Every Sunday at 4pm.
+    price: 5
+    badge:
+---
+

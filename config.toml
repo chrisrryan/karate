@@ -1,0 +1,75 @@
+baseURL = 'https://uechiryudojo.com'
+languageCode = 'en-us'
+paginate = 6
+theme= "coHub"
+title = 'Jim Hulse’s Uechi Ryu Dojo'
+ 
+[Menu]
+  # Main Menu
+  [[menu.Main]]
+  name = "Gallery"
+  url= "#gallery"
+  weight = 1
+  [[menu.Main]]
+  name = "Style"
+  url= "#service"
+  weight = 1
+  [[menu.Main]]
+  name = "Blog"
+  url= "#blog"
+  weight = 4
+  [[menu.Main]]
+  name = "Sessions"
+  url= "#pricing"
+  weight = 5
+  [[menu.Main]]
+  name = "FAQ"
+  url= "#faq"
+  weight = 6
+  [[menu.Main]]
+  name = "Members"
+  url= "/members/"
+  weight = 7
+
+  # Sitemap Menu
+  [[menu.sitemap]]
+  name = "Privacy Policy"
+  url = "/privacy/"
+  weight = 1
+  [[menu.sitemap]]
+  name = "Terms"
+  url = "/terms/"
+  weight = 2
+
+[params]
+  aboutPageURL = "blog"
+  contactLink = "contact"
+  copyright = "© {year} Jim Hulse’s Uechi Ryu Dojo."
+  formspreeURL = "https://formspree.io/mbjwlead"
+  googleAnalytics = "G-JZ95FEWF9K"
+  logo = "images/logo.png"
+  footerlogo = "images/logo.png"
+  footerDescription = "We are looking for new people to train in this fantastic martial art of karate. Men and women from all ages are most welcome."
+
+  [params.address]
+  address = "The Scout Hut, The Avenue, Blythe Bridge, Stoke-on-Trent, ST11 9PY"
+  email = "senseihulse@sky.com"
+  openingDesc = "Message us or just drop by"
+  openingHours = "Tuesdays 7:30pm / Thursdays 7:45pm"
+  phone = "07538 177253"
+
+  [params.map]
+  APIkey = "AIzaSyAAa9sAZ2-RIytD-vIl-PisaPx__hS5U9A"
+  latitude = "52.9667607"
+  longitude = "-2.0592828"
+  pinImage = "images/pin.png"
+
+  # Social icons
+  [[params.social]]
+  icon = "ti-facebook"
+  url = "https://www.facebook.com/groups/2138864396436088"
+  weight = 1
+
+
+  
+  

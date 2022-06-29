@@ -1,0 +1,41 @@
+{{ $address := .Site.Params.address}}
+<section class="contact" id="contact">
+  <div class="container-fulid">
+    <div class="row no-gutters">
+      <div class="col-lg-6">
+
+        <div id="map"></div>
+
+        <!-- 
+         The `defer` attribute causes the callback to execute after the full HTML
+         document has been parsed. For non-blocking uses, avoiding race conditions,
+         and consistent behavior across browsers, consider loading using Promises
+         with https://www.npmjs.com/package/@googlemaps/js-api-loader.
+        -->
+        <script
+          src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAAa9sAZ2-RIytD-vIl-PisaPx__hS5U9A&callback=initMap&v=weekly"
+          defer
+        ></script>
+
+        <!-- {{ $map := .Site.Params.map }}
+        <div id="map" data-lat={{ $map.latitude }} data-long={{ $map.longitude }} data-pin={{ $map.pinImage | absURL }}>
+        </div> -->
+      </div>
+      <div class="col-lg-6">
+        <div class="contact-aria">
+          <h3>
+            {{ $address.address | safeHTML }}
+          </h3>
+          <ul>
+            <li> <a href="mailto:{{ $address.email }}">{{ $address.email }}</a></li>
+            <li><a href="tel:{{ $address.phone}}">{{ $address.phone }}</a></li>
+          </ul>
+          <p>
+            {{ $address.openingDesc }}
+          </p>
+          <p>{{ $address.openingHours }}</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
