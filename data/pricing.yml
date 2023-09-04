@@ -12,9 +12,5 @@ itemPrices:
     description: EACH session is 2 hours. Once a month on Sundays starting at 10:30am.
     price: 10
     badge:
-  - packcage: "Qigong"
-    description: An energy cultivation system. EACH session is 90 minutes. Every Sunday at 4pm.
-    price: 5
-    badge:
 ---
 
