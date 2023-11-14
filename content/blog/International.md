@@ -5,7 +5,7 @@ featureImage: images/blog/International.jpg
 tags: ["Uechi Ryu", "Karate", "International Association"]
 ---
 
-We are members of Uechi Ryu International Karate Do, also known as "Uechi International" which was created under the authority of Chairman, Master Sensei Robert J. Campbell. It was started when Campbell Sensei was living and working in Asia in 1980. 
+We are members of [Uechi Ryu International Karate Do, also known as "Uechi International"](https://uechi-international.com) which was created under the authority of Chairman, Master Sensei Robert J. Campbell. It was started when Campbell Sensei was living and working in Asia in 1980. 
 Over the past many years, Uechi international has grown into one of the top tier Uechi associations in the world.
 
 ### Brief History of Uechi-Ryū Karate
